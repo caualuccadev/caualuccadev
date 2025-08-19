@@ -7,10 +7,10 @@ Busco integrar o que já sei com o que estou aprendendo, criando experiências d
 🛠️ Tecnologias
 
 Conhecimentos atuais  
-HTML | CSS | Tailwind | JavaScript | Git | GitHub | Figma | UI/UX básico | Acessibilidade | Responsividade
+HTML | CSS | Tailwind | Vue.js | JavaScript | Git | GitHub | Figma | UI/UX básico | Acessibilidade | Responsividade
 
 Estudando agora  
-Tailwind CSS | React | Boas práticas | Automação | Testes | Arquitetura de código
+Tailwind CSS | Vue | Boas práticas | Automação | Testes | Arquitetura de código
 
 -------------------------------------------------
 
